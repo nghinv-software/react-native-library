@@ -4,6 +4,10 @@ Remote it<---------Start
 git remote rm origin
 rm -rf .git
 ```
+
+- Replace `react-native-library-template` by your library name
+
+- run `yarn` to build library
 ------------------->End
 
 
