@@ -1,6 +1,8 @@
 Remote it<---------Start
 
 ```
+git clone https://github.com/nghinv-software/react-native-library.git
+cd react-native-library
 git remote rm origin
 rm -rf .git
 ```
